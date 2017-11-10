@@ -2,6 +2,6 @@ function IcebreakerResponse(email){
   this.email = email
 }
 
-IcebreakerResponse.BatchCreate = function(message){
-  return new IcebreakerResponse(message);
+IcebreakerResponse.BatchCreate = function(emails){
+  return new IcebreakerResponse(emails);
 }
