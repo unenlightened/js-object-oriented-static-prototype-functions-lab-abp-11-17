@@ -3,5 +3,5 @@ function IcebreakerResponse(email){
 }
 
 IcebreakerResponse.BatchCreate = function(data){
-
+  return;
 }
