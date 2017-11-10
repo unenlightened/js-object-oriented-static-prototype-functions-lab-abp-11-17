@@ -8,4 +8,4 @@ IcebreakerResponse.BatchCreate = function(emails){
   })
 }
 
-let list = IcebreakerResponse.BatchCreate(emails)
+let list = IcebreakerResponse.BatchCreate(emails);
